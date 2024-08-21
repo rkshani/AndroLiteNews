@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260192639747",
+    "firebase_url": "https://androlite-3c28d.firebaseio.com",
+    "project_id": "androlite-3c28d",
+    "storage_bucket": "androlite-3c28d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260192639747:android:12284b71463192d5f6a736",
+        "android_client_info": {
+          "package_name": "com.andromob.androlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260192639747-k0d4bpnshadgpdorfk8008s4pf6c3dir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC842ZlaezIiymjZNPXV1S4Ow6K6_SiYmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260192639747-k0d4bpnshadgpdorfk8008s4pf6c3dir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
